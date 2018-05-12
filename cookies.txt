@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+art-furniture-1.myshopify.com	TRUE	/1129185331/checkouts/f68b776a1c31c065768a3b8aeefc9be5	FALSE	1999999999	checkout	BAhJIiVjZWEyMTVhYmJhM2UwYjQ4ZTY2OTcyMGMzNjhhZGE4NQY6BkVU--3214224bc12e59faf9b79b7a21a48c66744d735b
+art-furniture-1.myshopify.com	TRUE	/1129185331	FALSE	1999999999	checkout_token	BAhJIiVmNjhiNzc2YTFjMzFjMDY1NzY4YTNiOGFlZWZjOWJlNQY6BkVU--03decb1794e49f94bad0344e7302dcff3361a250
+art-furniture-1.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+art-furniture-1.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1526148334
+art-furniture-1.myshopify.com	TRUE	/	FALSE	1999999999	cart	36ee274cfbe7e3c841a1c7041f5b7ebd
+art-furniture-1.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	4528ca98-4745-4685-80ea-049be5576ab8
+art-furniture-1.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	fe1856e2-c654-423e-a259-63124e508895
+
